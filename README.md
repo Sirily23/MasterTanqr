@@ -20,7 +20,7 @@ Here’s what it could look like for "Trail Technology" MasterTanQr:
 
 ## Contents
 - `docs/` - Detailed proposal and analysis.
-- `sources/` - TANQR and SGQR specs.
+- `sources/` - TANQR and SGQR specifications.
 - `mockups/` - Visual examples.
 
 ## 🤝 Get Involved
