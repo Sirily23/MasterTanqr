@@ -1,6 +1,6 @@
-# Unified Tanzania QR Payment System(UniTanqr)
+# Unified Tanzania QR Payment System (MasterTanQr)
 
-Welcome to a project to simplify payments in Tanzania! This repository outlines a unified QR code and Lipa Number system (e.g., "TN123456789") based on the merchant’s TIN, integrating M-Pesa, Mixx by Yas, and Airtel Money using TANQR and TIPS.
+Welcome to a project to simplify payments in Tanzania! This repository outlines a unified QR code and Lipa Number system (e.g., "TN123456789") based on the merchant’s TIN, integrating M-Pesa, Mixx by Yas, Azam Pesa and Airtel Money using TANQR and TIPS.
 
 ## Vision
 Replace fragmented Lipa Numbers with one QR code and identifier, managed by a neutral acquirer, to streamline transactions and boost financial inclusion.
@@ -22,7 +22,23 @@ Here’s what it could look like for "Trail Technology" MasterTanQr:
 - `code/` - Prototype scripts (WIP).
 
 ## Get Involved
-Check out [CONTRIBUTING.md](#contributingmd) to collaborate! Open issues for feedback or ideas.
+Open issues for feedback or ideas. (Any need by any business, merchant, )
 
 
+
+.
+
+🤝 Get Involved
+
+Open issues for feedback or ideas. (Any need by any business, merchant, or payment provider is welcome!)
+
+## 🏛️ Compliance & Regulations
+
+- Bank of Tanzania (BOT)
+
+- TANQR & TIPS standards
+
+- Security & Data Privacy best practices
+
+` This repo is a step toward modernizing digital payments in Tanzania! 🚀 `
 
