@@ -10,6 +10,11 @@ Replace fragmented Lipa Numbers with one QR code and identifier, managed by a ne
 - Unified Lipa Number ("TN" + TIN).
 - Interoperable via TIPS, neutral acquirer model.
 
+## A Qr Code Mockup
+Here’s what it could look like for "Trail Technology" MasterTanQr:
+![unified Qr code](./mockups/MoneyPay%20.png) 
+
+
 ## Contents
 - `docs/` - Detailed proposal and analysis.
 - `sources/` - TANQR and SGQR specs.
@@ -19,5 +24,5 @@ Replace fragmented Lipa Numbers with one QR code and identifier, managed by a ne
 ## Get Involved
 Check out [CONTRIBUTING.md](#contributingmd) to collaborate! Open issues for feedback or ideas.
 
-## License
-MIT License - feel free to fork and adapt.
+
+
