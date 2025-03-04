@@ -28,7 +28,7 @@
 
 ## 🖼️ Visual Representation
 <p align="center">
-  <img src="./flows.png" alt="QR Code" width="500" height="600">
+  <img src="./flows.png" alt="QR Code" width="600" height="800">
 </p>
 
 This flow ensures seamless, **interoperable** payments while maintaining **compliance with TANQR and TIPS regulations**. 
