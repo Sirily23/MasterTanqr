@@ -14,7 +14,7 @@ Replace fragmented Lipa Numbers with one QR code and identifier, managed by a ne
 Here’s what it could look like for "Trail Technology" MasterTanQr: 
 
 <p align="center">
-  <img src="./mockups/MoneyPay.png" alt="QR Code" width="350" height="350">
+  <img src="./mockups/MoneyPay.png" alt="QR Code" width="400" height="400">
 </p>
 
 
