@@ -11,12 +11,11 @@ Replace fragmented Lipa Numbers with one QR code and identifier, managed by a ne
 - Interoperable via TIPS, neutral acquirer model.
 
 ## A Qr Code Mockup
-Here’s what it could look like for "Trail Technology" MasterTanQr:
-[unified Qr code](./mockups/MoneyPay%20.png) 
+Here’s what it could look like for "Trail Technology" MasterTanQr: 
 
-<div style="text-align: center;">
-  <img src="./mockups/MoneyPay.png" alt="QR Code" width="300" height="300">
-</div>
+<p align="center">
+  <img src="./mockups/MoneyPay.png" alt="QR Code" width="350" height="350">
+</p>
 
 
 ## Contents
