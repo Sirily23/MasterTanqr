@@ -1,6 +1,6 @@
 # Unified Tanzania QR Payment System(UniTanqr)
 
-Welcome to a project to simplify payments in Tanzania! This repository outlines a unified QR code and Lipa Number system (e.g., "TN123456789") based on the merchant’s TIN, integrating M-Pesa, Tigo Pesa, and Airtel Money using TANQR and TIPS.
+Welcome to a project to simplify payments in Tanzania! This repository outlines a unified QR code and Lipa Number system (e.g., "TN123456789") based on the merchant’s TIN, integrating M-Pesa, Mixx by Yas, and Airtel Money using TANQR and TIPS.
 
 ## Vision
 Replace fragmented Lipa Numbers with one QR code and identifier, managed by a neutral acquirer, to streamline transactions and boost financial inclusion.

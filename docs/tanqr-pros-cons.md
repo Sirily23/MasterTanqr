@@ -59,7 +59,7 @@ This paper identifies the **advantages** and **disadvantages** of implementing a
 
 ### 5. Technical Limitations
 - The current TANQR Alias Merchant ID (8 digits) doesn’t match the proposed "TN123456789" (11 characters), requiring a **format change**.
-- Enabling cross-provider payments (e.g., M-Pesa to Tigo Pesa) adds complexity.
+- Enabling cross-provider payments (e.g., M-Pesa to Mixx by Yas) adds complexity.
 
 ### 6. Cost of Development
 - Building the acquirer’s system, including the dashboard and TIPS integration, involves **significant investment**.

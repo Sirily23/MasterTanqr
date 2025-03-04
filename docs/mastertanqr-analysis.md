@@ -6,7 +6,7 @@ This article reports a thorough review of the proposed potential of unified QR c
 
 ## 1. Introduction
 
-Tanzania’s mobile money landscape is fragmented, with merchants managing separate Lipa Numbers for providers like M-Pesa, Tigo Pesa, and Airtel Money. This complexity hinders efficiency and financial inclusion. The proposed system seeks to unify these into a single QR code and identifier, using TANQR and TIPS for standardization and interoperability. This analysis examines the feasibility, benefits, and challenges of such a system.
+Tanzania’s mobile money landscape is fragmented, with merchants managing separate Lipa Numbers for providers like M-Pesa, Mixx by Yas, and Airtel Money. This complexity hinders efficiency and financial inclusion. The proposed system seeks to unify these into a single QR code and identifier, using TANQR and TIPS for standardization and interoperability. This analysis examines the feasibility, benefits, and challenges of such a system.
 
 ---
 

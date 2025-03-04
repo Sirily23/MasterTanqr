@@ -5,7 +5,7 @@ Create a system where merchants use one QR code and Lipa Number (e.g., "TN123456
 
 ### Scope
 - QR code based on TANQR ID "26".
-- Neutral acquirer (e.g. Trail Technology) links M-Pesa, Tigo Pesa, Airtel Money accounts.
+- Neutral acquirer (e.g. Trail Technology) links M-Pesa, Mixx by Yas, Airtel Money accounts.
 - TIPS routes payments to the acquirer.
 
 ### Functional Requirements
