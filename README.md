@@ -12,23 +12,17 @@ Replace fragmented Lipa Numbers with one QR code and identifier, managed by a ne
 
 ## A Qr Code Mockup
 Here’s what it could look like for "Trail Technology" MasterTanQr:
-![unified Qr code](./mockups/MoneyPay%20.png) 
+[unified Qr code](./mockups/MoneyPay%20.png) 
+
+<img src="./mockups/MoneyPay .png" alt="QR Code" width="300" height="300">
 
 
 ## Contents
 - `docs/` - Detailed proposal and analysis.
 - `sources/` - TANQR and SGQR specs.
 - `mockups/` - Visual examples.
-- `code/` - Prototype scripts (WIP).
 
-## Get Involved
-Open issues for feedback or ideas. (Any need by any business, merchant, )
-
-
-
-.
-
-🤝 Get Involved
+## 🤝 Get Involved
 
 Open issues for feedback or ideas. (Any need by any business, merchant, or payment provider is welcome!)
 
